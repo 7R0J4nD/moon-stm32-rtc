@@ -1,0 +1,6 @@
+usbSerial.c:26:6:Usb_Serial_Command_Buffer_Reset	2
+usbSerial.c:35:6:Usb_Serial_Read	5
+usbSerial.c:63:6:Usb_Serial_Uart_Receive	2
+usbSerial.c:77:6:Serial_Receive_Init	1
+usbSerial.c:83:6:HAL_UART_RxCpltCallback	2
+usbSerial.c:95:6:Usb_Serial_Send_Data	2

@@ -1,0 +1,6 @@
+../Core/Src/usbSerial.c:26:6:Usb_Serial_Command_Buffer_Reset	16	static
+../Core/Src/usbSerial.c:35:6:Usb_Serial_Read	8	static
+../Core/Src/usbSerial.c:63:6:Usb_Serial_Uart_Receive	24	static
+../Core/Src/usbSerial.c:77:6:Serial_Receive_Init	8	static
+../Core/Src/usbSerial.c:83:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/usbSerial.c:95:6:Usb_Serial_Send_Data	40	static

@@ -1,0 +1,2 @@
+../Core/Src/usb.c:26:6:Enable_Usb	8	static
+../Core/Src/usb.c:32:6:Disable_Usb	8	static

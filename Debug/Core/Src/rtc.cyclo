@@ -1,0 +1,4 @@
+rtc.c:22:10:RTC_Get_Time	1
+rtc.c:51:6:Time_Init	3
+rtc.c:81:6:Set_Time_To_Timestamp	3
+rtc.c:108:6:Convert_Timestamp_To_Time	1
